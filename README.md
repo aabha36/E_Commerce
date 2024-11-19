@@ -69,7 +69,7 @@ PORT=5000
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/jyoti23456/E_Commerce.git
+git clone https://github.com/aabha36/E_Commerce.git
 cd E_Commerce
 ```
 
